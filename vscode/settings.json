@@ -1,0 +1,9 @@
+{
+    "powershell.promptToUpdatePowerShell": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "editor.accessibilitySupport": "off",
+    "git.confirmSync": false,
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'JetBrainsMonoNL NF', 'Courier New', monospace"
+}
