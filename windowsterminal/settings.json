@@ -41,7 +41,7 @@
             {
                 "face": "JetBrainsMonoNL NF"
             },
-            "opacity": 0,
+            "opacity": 100,
             "padding": "5",
             "useAcrylic": false
         },
@@ -101,16 +101,10 @@
                 "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
                 "hidden": false,
                 "name": "PowerShell 7",
-                "opacity": 0,
+                "opacity": 100,
                 "scrollbarState": "hidden",
                 "source": "Windows.Terminal.PowershellCore",
                 "useAcrylic": true
-            },
-            {
-                "guid": "{a3a2e83a-884a-5379-baa8-16f193a13b21}",
-                "hidden": false,
-                "name": "PowerShell 7 Preview",
-                "source": "Windows.Terminal.PowershellCore"
             }
         ]
     },
